@@ -1,0 +1,6 @@
+{
+  "name": "Austen & Alcott Library",
+  "description": "An elegant, immersive desktop digital library and reading tracker inspired by the classic luxury library style, featuring interactive loans, holds, progress tracking, and custom lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
